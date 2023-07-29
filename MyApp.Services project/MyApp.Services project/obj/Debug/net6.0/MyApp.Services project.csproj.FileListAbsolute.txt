@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\MyApp.Services project\MyApp.Services project\obj\Debug\net6.0\MyApp.Services project.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\MyApp.Services project\MyApp.Services project\obj\Debug\net6.0\MyApp.Services project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\MyApp.Services project\MyApp.Services project\obj\Debug\net6.0\MyApp.Services project.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\MyApp.Services project\MyApp.Services project\obj\Debug\net6.0\MyApp.Services project.AssemblyInfo.cs
+C:\Users\user\source\repos\MyApp.Services project\MyApp.Services project\obj\Debug\net6.0\MyApp.Services project.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\MyApp.Services project\MyApp.Services project\obj\Debug\net6.0\MyApp.Services project.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\user\source\repos\MyApp.Services project\MyApp.Services project\obj\Debug\net6.0\MyApp.Services project.MvcApplicationPartsAssemblyInfo.cache
